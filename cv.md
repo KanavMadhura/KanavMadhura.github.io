@@ -9,10 +9,14 @@ subtitle:
   
 ### EDUCATION
 
-University of Toronto <span style="float: right; ">2020-</span>  
-**Bachelor's of Science: Mathematics**  
+University of Toronto, Hon. BSc <span style="float: right; ">2020-Present</span>  
+**Mathematics Major**  
 Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
-**Minor: Computer Science**
+
+**Statistics Major**
+Description
+
+**Computer Science Minor**
 Description
 
 ### EXPERIENCE
