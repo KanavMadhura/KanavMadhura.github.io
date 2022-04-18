@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is Pudhina
+subtitle: Welcome to my website!
 sitemap:
   priority: 0.9
 ---
