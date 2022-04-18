@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>I am a third-year undergraduate studying mathematics, statistics, and computer science at the University of Toronto.</p>
+	<p> I like to read, play guitar, and go on hikes/trails with my dog Clove. </p>
 </div>

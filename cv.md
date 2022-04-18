@@ -28,5 +28,5 @@ Technologies used
 ### RECOGNITION & INTERESTS
 
 - Dr. Charles and Margaret Brown Award (Scholarship) <span style="float: right; ">2021</span> 
+- University of Toronto Dean's List Scholar <span style="float: right; ">2021</span>
 - Dr. Charles and Margaret Brown Award (Scholarship) <span style="float: right; ">2020</span>  
-- University of Toronto Dean's List Scholar <span style="float: right; ">2020</span>
