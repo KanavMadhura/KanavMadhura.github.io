@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Résumé
+title: Curriculumn Vitae
 subtitle: An awesome person
 ---
 
