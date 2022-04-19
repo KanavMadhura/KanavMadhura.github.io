@@ -13,11 +13,10 @@ sitemap:
 	<p> I like to read, play guitar, and go on hikes/trails with my dog Clove. </p>
 </div>
 
-<div>
 ### What I'm Doing Right Now:  
 
 - Research on mathematics education under Professor Sarah Mayes-Tang
 - MAT244: Introduction to Ordinary Differential Equations
 - STA302: Methods of Data Analysis I
 - Data Science for Python certificate course offered online by the University of Michigan
-</div>
+
