@@ -10,8 +10,8 @@ University of Toronto, Hon. BSc <span style="float: right; ">2020-Present</span>
 ### RESEARCH
 
 Research Assistant - **University of Toronto Mathematics Department** <span style="float: right; ">May 2022 - Present</span>  
-Under Professor Sarah Mayes-Tang, I conducted a literature search, summarized data, using a collaborative bibliographic software.
-Analyze short answer questions from surveys.
+Under Professor Sarah Mayes-Tang, I conducted a literature search and summarized data using a collaborative bibliographic software.
+Analyzed short answer questions from surveys.
 Developed research methods for analyzing research questions
 Assisted in creating a Research Ethics Board application
 Research involved answering questions such as
@@ -24,8 +24,7 @@ Analyzed existing data from courses and collected own data to attempt to answer 
 ### WORK
 
 Math Tutor - **Ontario Institute for Studies in Education** <span style="float: right; ">September 2021 - April 2022</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+adadaddadad  
 
 ### VOLUNTEERING
 
