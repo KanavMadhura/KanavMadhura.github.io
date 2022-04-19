@@ -2,31 +2,38 @@
 layout: page
 title: Curriculumn Vitae
 subtitle: 
----
-
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
-  
+---  
 ### EDUCATION
 
 University of Toronto, Hon. BSc <span style="float: right; ">2020-Present</span>  
-**Mathematics Major**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+**Mathematics Major, Statistics Major, Computer Science Minor**  
+### RESEARCH
 
-**Statistics Major**
-Description
+Research Assistant - **University of Toronto Mathematics Department** <span style="float: right; ">May 2022 - Present</span>  
+Under Professor Sarah Mayes-Tang, I conducted a literature search, summarized data, using a collaborative bibliographic software.
+Analyze short answer questions from surveys.
+Developed research methods for analyzing research questions
+Assisted in creating a Research Ethics Board application
+Research involved answering questions such as
 
-**Computer Science Minor**
-Description
+- What are the impact calculus courses have on learners? 
+- What are the high-impact teaching practices that stick with students in the long-term?  
 
-### EXPERIENCE
+Analyzed existing data from courses and collected own data to attempt to answer questions like these. Used statistical calculations to analyze enrolment data and surveys. Analyzed responses on short-answer questions using content analysis through R and Python. Developed research methods in consultation with the professor and other experts to collect and analyze data, according to the research questions developed.  
 
-Math Tutor - **Ontario Institute for Studies in Education** <span style="float: right; ">September 2021- April 2022</span>  
+### WORK
+
+Math Tutor - **Ontario Institute for Studies in Education** <span style="float: right; ">September 2021 - April 2022</span>  
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used  
 
-### RECOGNITION & INTERESTS
+### VOLUNTEERING
 
-- Dr. Charles and Margaret Brown Award (Scholarship) <span style="float: right; ">2021</span> 
+Mentor - **FIRST Robotics Competition Team 7902 Markham FireBirds** <span style="float: right; ">September 2021 - Present</span>
+
+### DISTINCTIONS & SCHOLARSHIPS
+
+- Dr. Charles and Margaret Brown Award <span style="float: right; ">2021</span> 
 - University of Toronto Dean's List Scholar <span style="float: right; ">2021</span>
-- Dr. Charles and Margaret Brown Award (Scholarship) <span style="float: right; ">2020</span>  
+- Dr. Charles and Margaret Brown Award <span style="float: right; ">2020</span>  
+- University of Toronto Entrance Scholarship <span style="float: right; ">2020</span>  
