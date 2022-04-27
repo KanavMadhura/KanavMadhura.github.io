@@ -12,7 +12,7 @@ So, I took an introductory class on number theory this semester. We learned a LO
 First, let's get some prerequisites out of the way. I will assume that you are reasonable comfortable with modular arithmetic, but will briefly go over how it is defined and some related notation.  
 #### Definition: Modular Congurence
 
-Let <span>\(a,b\)<\span> be integers. We say that <span>\(a \equiv b \pmod{n}\)<\span>, or \(a\) is *congruent* to \(b\) mod \(n\), if both \(a\) and \(b\) have the same remainder when divided by \(n\). There is a more [formal definition](https://en.wikipedia.org/wiki/Modular_arithmetic), but this will suffice for our purposes.  
+Let <span>\(a,b\)</span> be integers. We say that <span>\(a \equiv b \pmod{n}\)</span>, or \(a\) is *congruent* to \(b\) mod \(n\), if both \(a\) and \(b\) have the same remainder when divided by \(n\). There is a more [formal definition](https://en.wikipedia.org/wiki/Modular_arithmetic), but this will suffice for our purposes.  
 
 #### Notation: Congruence Classes (With Respect to Modularity)  
 
