@@ -1,5 +1,9 @@
 ---
 layout: page
+title:  "Books I've Read"
+subtitle: "and some thoughts on them sometimes"
+date:   2022-06-23 13:37:38 +0530
+categories: ["general"]
 ---
 ### Books I've Read
 
