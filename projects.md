@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects and Certifications
-subtitle: Some cool things I have made
+subtitle: Some cool things I have made and done
 ---
 ### Projects
 
