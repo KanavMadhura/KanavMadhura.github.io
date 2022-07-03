@@ -21,6 +21,7 @@ Description
 
 ### Certificates
 
-**Introduction to Data Science in Python** - Coursera *Applied Data Science with Python Specialization*  <span style="float: right; ">July 2022</span> 
+**Introduction to Data Science in Python** - Coursera  <span style="float: right; ">July 2022</span> 
 <a href="assets/pdfs/IntroToDataScienceCertificate.pdf">*Certificate*</a> 
-Understands techniques such as lambdas and manipulating csv files, can describe common Python functionality and features used for data science, can query DataFrame structures for cleaning and processing, amd can explain distributions, sampling, and t-tests
+
+Understands techniques such as lambdas and manipulating csv files, can describe common Python functionality and features used for data science, query DataFrame structures for cleaning and processing, and explain distributions, sampling, and t-tests.
