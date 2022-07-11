@@ -20,13 +20,12 @@ I analyzed existing data from courses and collected my own data to attempt to an
 
 ### WORK
 
-Math Tutor - **Ontario Institute for Studies in Education** <span style="float: right; ">September 2021 - April 2022</span>  
-Description  
+Student Support Staff - **Ontario Institute for Studies in Education** <span style="float: right; ">September 2021 - April 2022</span>  
+Tutored OISE students in elementary to high school mathematics, created reference documents for future use, and designed problem sets. 
 
 ### VOLUNTEERING
 
-Mentor - **FIRST Robotics Competition Team 7902 Markham FireBirds** <span style="float: right; ">September 2021 - Present</span>  
-Description
+Mentor - **FIRST Robotics Competition Team 7902 Markham FireBirds** <span style="float: right; ">September 2021 - Present</span>
 
 ### DISTINCTIONS & SCHOLARSHIPS
 
