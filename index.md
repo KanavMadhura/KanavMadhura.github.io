@@ -10,7 +10,7 @@ sitemap:
 
 <div id="describe-text">
 	<p>I am a third-year undergraduate studying <strong>mathematics</strong>, <strong>statistics</strong>, and <strong>computer science</strong> at the University of Toronto.</p>
-	<p> I like to <a href="/_posts/2022-07-01-booklist.md">read</a>, play guitar, and go on hikes/trails with my dog <a href="/assets/img/clove.JPG">Clove</a>. </p>
+	<p> I like to <a href="https://app.thestorygraph.com/profile/kanavmadhura">read</a>, play guitar, and go on hikes/trails with my dog <a href="/assets/img/clove.JPG">Clove</a>. </p>
 	<p> You can contact me at <strong>kanav [dot] madhura [at] mail [dot] utoronto [dot] ca</strong> </p>
 </div>
 
@@ -18,5 +18,6 @@ sitemap:
 
 - Research on mathematics education under Professor Sarah Mayes-Tang
 - MAT244: Introduction to Ordinary Differential Equations
+- STA302: Methods of Data Analysis I
 - Data Science for Python certificate course offered online by the University of Michigan
 
