@@ -7,6 +7,8 @@ categories: ["math"]
 usemathjax: true
 ---
 
+## Some Background 
+
 So, I took an introductory class on number theory this semester. We learned a LOT of interesting content, but something that I thought would be perfect for a blog post was the "square-and-multiply" algorithm.  
 
 First, let's get some prerequisites out of the way. I will assume that you are reasonable comfortable with modular arithmetic, but will briefly go over how it is defined and some related notation.  
@@ -16,7 +18,7 @@ First, let's get some prerequisites out of the way. I will assume that you are r
 **Notation: Congruence Classes (With Respect to Modularity):** This is just for notational convenience, so there is no need to go too much into detail here. We say that the *congruence class* of some integer \\(a\\) modulo \\(n\\) is the set of all integers \\(b\\) such that \\(a \equiv b \pmod{n}\\). We denote this set as \\([a]_n\\).  
 
 With these out of the way, we can now get to the actual algorithm.  
-#### Square and Multiply Algorithm  
+## Square and Multiply Algorithm  
 
 Say we want to compute the remainder of some intger to the power of a huge number, when divided by some other integer. This may seem like a really niche situation, however this sort of problem comes up all the time in computer science, and is of special significance to crypotgraphy.  
 
