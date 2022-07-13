@@ -30,16 +30,29 @@ Anyways, here are the steps of the algorithm (noting that \\(m=\lfloor\log_2(k)\
 
 **1. Represent \\(k\\) as a sum of powers of two; \\(\sum^m\_0 c_i2^i\\) where \\(c_i \in \{0,1\}\\)**  
     - The notation here may seem like a lot but we will need it for the next steps. We need the \\(c\_i\\) coefficient so we can get rid of powers that aren't in the sum; for example \\(5 = (1)2^0 + (0)2^1 + (1)2^2\\)  
-**2. Compute \\([a^{2^i}]\_n = [r\_i]\_n\\) for \\(1 \leq i \leq m\\) iteratively, where the next iteration is computed by \\([a^{2^{i+1}}]\_n = [a^{2^i}]^2\_n[r\_i^2]\_n\\)**  
+**2. Compute \\([a^{2^i}]\_n = [r\_i]\_n\\) for \\(1 \leq i \leq m\\) iteratively, where the next iteration is computed by \\([a^{2^{i+1}}]\_n = [a^{2^i}]^2\_n=[r\_i^2]\_n\\)**  
     - We will need to compute with every \\(i\\) even if \\(2^i\\) has a coefficient of \\(0\\) from step 1. This is so we can compute the next modulo easily.  
 **3. Find \\([a^{k}]\_n = \Pi^m\_{i=0}[a^{c_i2^i}]\_n = \Pi^m\_{i=0}[r_i]\_n\\)**  
-    - This turns the problem into simply finding a product of numbers, where each number is less than \\(n\\). It may get out of hand if computing it manually, but a computer will do this with ease.  
+    - This turns the problem into simply finding a product of numbers, where each number is less than \\(n\\). It may get out of hand if computing it manually, but a computer will do this with ease. The reason this works is because the modulo of a product is the product of the modulo.  
+    
+When I first saw the algorithm introduced like this, I was pretty intimidated, but an example should help.  
+#### Example
 
+Compute \\([5^{4100}]_{36}\\).  
 
-## Runtime
+First we have that \\(4100 = 2^2 + 2^{12}\\). Then we iteratively compute:  
+\\[
+\begin{align*}
+    &[5^{2^0}]\_{36} = [5]\_{36} \\ 
+    &[5^{2^1}]\_{36} = [5^{2^0}]^2\_{36} = [5]^2\_{36} = [25]\_{36} \\
+    &[5^{2^2}]\_{36} = [5^{2^1}]^2\_{36} = [25]^2\_{36} = [625]\_{36} = [13]\_{36} \\
+    &[5^{2^3}]\_{36} = [5^{2^2}]^2\_{36} = [13]^2\_{36} = [169]\_{36} = [25]\_{36}
+\end{align*}
+\\]
+We can see that \\([13]\_{36}\\) and \\([25]\_{36}\\) begin to alternate. Continuing
+this pattern, we see that \\([5^{2^{12}}]\_{36} = [13]\_{36}\\)  
 
-This algorithm is actually quite efficient, if the above examples didn't convince you of that fact. At any point in step 2, you don't have to deal with numbers larger than \\(n^2\\)
-
+Thus we finally obtain \\([5^{4100}]\_{36} = [5^{2^2}]\_{36}[5^{2^{12}}]\_{36} = [13]^2\_{36} = [25]\_{36}.\\)  
 ## Alternate Perspectives
 
 To end things off, let me say that there are a lot of different ways to think about this! Specifically, we can convert everything to binary and proceed from there. See this [Numberphile video](https://www.youtube.com/watch?v=cbGB__V8MNk&t=715s) for more.
