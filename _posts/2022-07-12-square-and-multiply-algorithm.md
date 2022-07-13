@@ -41,14 +41,14 @@ When I first saw the algorithm introduced like this, I was pretty intimidated, b
 Compute \\([5^{4100}]_{36}\\).  
 
 First we have that \\(4100 = 2^2 + 2^{12}\\). Then we iteratively compute:  
-\[
-\begin{align*}
+\\[
+\begin{align\*}
     &[5^{2^0}]\_{36} = [5]\_{36} \\ 
     &[5^{2^1}]\_{36} = [5^{2^0}]^2\_{36} = [5]^2\_{36} = [25]\_{36} \\
     &[5^{2^2}]\_{36} = [5^{2^1}]^2\_{36} = [25]^2\_{36} = [625]\_{36} = [13]\_{36} \\
     &[5^{2^3}]\_{36} = [5^{2^2}]^2\_{36} = [13]^2\_{36} = [169]\_{36} = [25]\_{36}
-\end{align*}
-\]
+\end{align\*}
+\\]
 We can see that \\([13]\_{36}\\) and \\([25]\_{36}\\) begin to alternate. Continuing
 this pattern, we see that \\([5^{2^{12}}]\_{36} = [13]\_{36}\\)  
 
