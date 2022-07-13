@@ -28,12 +28,12 @@ How do we do this? Well, we want to use the fact that every integer has a unique
 
 Anyways, here are the steps of the algorithm (noting that \\(m=\lfloor\log_2(k)\rfloor\\)):
 
-**1. Represent \\(k\\) as a sum of powers of two; \\(\sum^m_0 c_i2^i\\) where \\(c_i \in \{0,1\}\\)**
-    - The notation here may seem like a lot but we will need it for the next steps. We need the \\(c_i\\) coefficient so we can get rid of powers that aren't in the sum; for example \\(5 = (1)2^0 + (0)2^1 + (1)2^2\\)
-**2. Compute \\([a^{2^i}]_n = [r_i]_n\\) for \\(1 \leq i \leq m\\) iteratively, where the next iteration is computed by \\([a^{2^{i+1}}]_n = [a^{2^i}]^2_n[r_i^2]_n\\)**
-    - We will need to compute with every \\(i\\) even if \\(2^i\\) has a coefficient of \\(0\\) from step 1. This is so we can compute the next modulo easily.
-**3. Find \\([a^{k}]_n = \Pi^m_{i=0}[a^{c_i2^i}]_n = \Pi^m_{i=0}[r_i]_n\\)**
-    - This turns the problem into simply finding a product of numbers, where each number is less than \\(n\\). It may get out of hand if computing it manually, but a computer will do this with ease.
+**1. Represent \\(k\\) as a sum of powers of two; \\(\sum^m_0 c_i2^i\\) where \\(c_i \in \{0,1\}\\)**  
+    - The notation here may seem like a lot but we will need it for the next steps. We need the \\(c_i\\) coefficient so we can get rid of powers that aren't in the sum; for example \\(5 = (1)2^0 + (0)2^1 + (1)2^2\\)  
+**2. Compute \\([a^{2^i}]_n = [r_i]_n\\) for \\(1 \leq i \leq m\\) iteratively, where the next iteration is computed by \\([a^{2^{i+1}}]_n = [a^{2^i}]^2_n[r_i^2]_n\\)**  
+    - We will need to compute with every \\(i\\) even if \\(2^i\\) has a coefficient of \\(0\\) from step 1. This is so we can compute the next modulo easily.  
+**3. Find \\([a^{k}]_n = \Pi^m_{i=0}[a^{c_i2^i}]_n = \Pi^m_{i=0}[r_i]_n\\)**  
+    - This turns the problem into simply finding a product of numbers, where each number is less than \\(n\\). It may get out of hand if computing it manually, but a computer will do this with ease.  
 
 
 ## Runtime
