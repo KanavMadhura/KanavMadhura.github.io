@@ -16,8 +16,8 @@ sitemap:
 
 ### What I'm Doing Right Now:  
 
-- Research on mathematics education under Professor Sarah Mayes-Tang
-- MAT244: Introduction to Ordinary Differential Equations
-- STA302: Methods of Data Analysis I
-- Data Science for Python certificate course offered online by the University of Michigan
-
+- CSC343: Introduction to Databases
+- MAT309: Introduction to Mathematical Logic
+- MAT327: Introduction to Topology
+- MAT334: Complex Variables
+- STA314: Statistical Methods for Machine Learning I
