@@ -14,10 +14,10 @@ sitemap:
 	<p> You can contact me at <strong>kanav [dot] madhura [at] mail [dot] utoronto [dot] ca</strong> </p>
 </div>
 
-### What I'm Doing Right Now:  
+<!-- ### What I'm Doing Right Now:  
 
 - CSC343: Introduction to Databases
 - MAT309: Introduction to Mathematical Logic
 - MAT327: Introduction to Topology
 - MAT334: Complex Variables
-- STA314: Statistical Methods for Machine Learning I
+- STA314: Statistical Methods for Machine Learning I -->
