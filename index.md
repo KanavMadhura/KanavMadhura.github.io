@@ -14,9 +14,9 @@ sitemap:
 	<p> You can contact me at <strong>kanav [dot] madhura [at] mail [dot] utoronto [dot] ca</strong> </p>
 </div>
 
-### What I'm Doing Right Now:  
+<!-- ### What I'm Doing Right Now:  
 
 - MAT337: Real Analysis
 - MAT401: Rings, Fields, Galois Theory
 - STA347: Probability
-- STA414: Statistical/Machine Learning II
+- STA414: Statistical/Machine Learning II --!>
